@@ -299,21 +299,4 @@ int main() {
             cout << "wrong choice" << endl;
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-  
